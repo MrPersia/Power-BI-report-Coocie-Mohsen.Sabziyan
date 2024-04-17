@@ -2,7 +2,7 @@
 
 # Power BI Coocie Berichtsprojekt
 
-Dieses Projekt enthält ein Power BI-Berichtsprojekt, das sich mit den Daten einer fiktiven Coocie-Verkaufsplattform befasst. Der Bericht wurde entwickelt, um Einblicke in den Verkauf von Coocie, Kundenpräferenzen und saisonale Trends zu bieten.
+Dieses Projekt enthält Zweit Power BI-Berichtsprojekts, das sich mit den Daten einer fiktiven Coocie-Verkaufsplattform befasst. Der Bericht wurde entwickelt, um Einblicke in den Verkauf von Coocie, Kundenpräferenzen und saisonale Trends zu bieten.
 
 ## Überblick
 
@@ -12,7 +12,7 @@ Dieses Projekt enthält ein Power BI-Berichtsprojekt, das sich mit den Daten ein
 
 ## Inhalt
 
-- **Power BI-Berichtsdatei**: Enthält das Hauptberichtsprojekt.
+- **Power BI-Berichtsdatei**: Enthält das Hauptberichtsprojekt und Order Cookie Data.
 - **Datenquelle**: Die zugrunde liegende Datenquelle ist eine CSV-Datei mit Verkaufsdaten.
 - **Dokumentation**: Eine Anleitung zur Verwendung des Berichts und zur Aktualisierung der Daten.
 
