@@ -1,7 +1,5 @@
 # Power-BI-report-Coocie-Mohsen.Sabziyan
 
-Natürlich, hier ist die aktualisierte Beschreibung, in der Spotify durch Coocie ersetzt wird:
-
 ---
 
 # Power BI Coocie Berichtsprojekt
