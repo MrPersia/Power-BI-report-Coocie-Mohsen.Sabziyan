@@ -1,7 +1,5 @@
 # Power-BI-report-Coocie-Mohsen.Sabziyan
 
----
-
 # Power BI Coocie Berichtsprojekt
 
 Dieses Projekt enthält ein Power BI-Berichtsprojekt, das sich mit den Daten einer fiktiven Coocie-Verkaufsplattform befasst. Der Bericht wurde entwickelt, um Einblicke in den Verkauf von Coocie, Kundenpräferenzen und saisonale Trends zu bieten.
